@@ -49,3 +49,7 @@ We're always open to collaborations and contributions. Check out our [CONTRIBUTI
 ## 📚 Resources
 
 - [Code of Conduct](https://github.com/SplooshAI/.github/tree/main/profile/CODE_OF_CONDUCT.md): We believe in a welcoming and respectful community. Please read our [Code of Conduct](https://github.com/SplooshAI/.github/tree/main/profile/CODE_OF_CONDUCT.md) before participating.
+
+## 📄 License
+
+All of our public projects are open-sourced with appropriate licenses.

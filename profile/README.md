@@ -8,6 +8,12 @@ We blend the finest techniques and tools in generative AI with experienced engin
 
 Our mission at Sploosh.AI is to make your data work for you in exciting new ways! We use the latest AI technology to find the hidden gems within your data. We team up with you to understand your unique needs and challenges, ensuring you get personalized, practical solutions. At Sploosh.AI, we simplify the complex world of data and generative AI - helping you unlock new possibilities and opportunities to grow and optimize your business.
 
+## 🧑🏼‍💻 Blog posts
+
+- **[Explore OpenAI vector embedding with Neo4j, LangChain, and Wikipedia](https://medium.com/@therobbrennan/explore-openai-vector-embedding-with-neo4j-6ea2a40693d9)**: **Sploosh.AI founder Rob Brennan** shares a technical deep dive into exploring how Neo4j might work with vector embedding and a demo Retrieval-Augmented Generation (RAG) project. Released on Monday, September 18th, 2023.
+
+[![](assets/20230918-explore-openai-vector-embedding-with-neo4j-langchain-wikipedia-on-medium.png)](https://medium.com/@therobbrennan/explore-openai-vector-embedding-with-neo4j-6ea2a40693d9)
+
 ## 🛠 Projects
 
 ### What do we have our eyes on?

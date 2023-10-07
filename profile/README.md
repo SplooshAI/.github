@@ -12,13 +12,13 @@ Our mission at Sploosh.AI is to make your data work for you in exciting new ways
 
 - **[Explore OpenAI vector embedding with Neo4j, LangChain, and Wikipedia](https://medium.com/@therobbrennan/explore-openai-vector-embedding-with-neo4j-6ea2a40693d9)**: **Sploosh.AI founder Rob Brennan** shares a technical deep dive into exploring how Neo4j might work with vector embedding and a demo Retrieval-Augmented Generation (RAG) project. Published on Monday, September 18th, 2023.
 
-  [![](assets/20230918-explore-openai-vector-embedding-with-neo4j-langchain-wikipedia-on-medium.png)](https://medium.com/@therobbrennan/explore-openai-vector-embedding-with-neo4j-6ea2a40693d9)
+  [![](https://github.com/SplooshAI/.github/blob/main/profile/assets/20230918-explore-openai-vector-embedding-with-neo4j-langchain-wikipedia-on-medium.png?raw=true)](https://medium.com/@therobbrennan/explore-openai-vector-embedding-with-neo4j-6ea2a40693d9)
 
   🙏 Acknowledgements
 
   This blog post was featured in the Saturday, September 30th, 2023 edition of [This Week in Neo4j](https://neo4j.com/blog/this-week-in-neo4j-vectors-cypher-geospatial-dfir-and-more/)
 
-  [![](assets/20230930-featured-in-this-week-in-neo4j.png)](https://neo4j.com/blog/this-week-in-neo4j-vectors-cypher-geospatial-dfir-and-more/)
+  [![](https://github.com/SplooshAI/.github/blob/main/profile/assets/20230930-featured-in-this-week-in-neo4j.png?raw=true)](https://neo4j.com/blog/this-week-in-neo4j-vectors-cypher-geospatial-dfir-and-more/)
 
 ## 🛠 Projects
 

@@ -45,3 +45,7 @@ Our mission at Sploosh.AI is to make your data work for you in exciting new ways
 ## 🤝 How to Contribute
 
 We're always open to collaborations and contributions. Check out our [CONTRIBUTING.md](https://github.com/SplooshAI/.github/tree/main/profile/CONTRIBUTING.md) guide to get started.
+
+## 📚 Resources
+
+- [Code of Conduct](https://github.com/SplooshAI/.github/tree/main/profile/CODE_OF_CONDUCT.md): We believe in a welcoming and respectful community. Please read our [Code of Conduct](https://github.com/SplooshAI/.github/tree/main/profile/CODE_OF_CONDUCT.md) before participating.

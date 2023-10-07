@@ -41,3 +41,7 @@ Our mission at Sploosh.AI is to make your data work for you in exciting new ways
 - **[📺](https://www.youtube.com/watch?v=T6L9EoBy8Zk) Neo4j in 100 Seconds**: Neo4j is a native graph database designed to handle highly complex relational data. Learn the basics of graph data modeling and the [Cypher Query Language](https://neo4j.com/product/cypher-graph-query-language/)
 
   ![](https://dist.neo4j.com/wp-content/uploads/20220315164402/cypher-hero-image.svg)
+
+## 🤝 How to Contribute
+
+We're always open to collaborations and contributions. Check out our [CONTRIBUTING.md](https://github.com/SplooshAI/.github/tree/main/profile/CONTRIBUTING.md) guide to get started.

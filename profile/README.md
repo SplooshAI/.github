@@ -10,7 +10,9 @@ Our mission at Sploosh.AI is to make your data work for you in exciting new ways
 
 ## 🧑🏼‍💻 Blog posts
 
-- **[Explore OpenAI vector embedding with Neo4j, LangChain, and Wikipedia](https://medium.com/@therobbrennan/explore-openai-vector-embedding-with-neo4j-6ea2a40693d9)**: **Sploosh.AI founder Rob Brennan** shares a technical deep dive into exploring how Neo4j might work with vector embedding and a demo Retrieval-Augmented Generation (RAG) project. Released on Monday, September 18th, 2023.
+_Published on Monday, September 18th, 2023_
+
+- **[Explore OpenAI vector embedding with Neo4j, LangChain, and Wikipedia](https://medium.com/@therobbrennan/explore-openai-vector-embedding-with-neo4j-6ea2a40693d9)**: **Sploosh.AI founder Rob Brennan** shares a technical deep dive into exploring how Neo4j might work with vector embedding and a demo Retrieval-Augmented Generation (RAG) project.
 
 [![](assets/20230918-explore-openai-vector-embedding-with-neo4j-langchain-wikipedia-on-medium.png)](https://medium.com/@therobbrennan/explore-openai-vector-embedding-with-neo4j-6ea2a40693d9)
 
